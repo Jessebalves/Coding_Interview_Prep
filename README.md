@@ -1,2 +1,2 @@
-# LeetCode_Problems
-A repository that holds all of my LeetCode solutions in one place.
+# Interview Preparation
+A repository that holds all of my solutions to problems on websites like LeetCode, HackerRank, Codewars, etc.  
